@@ -4,22 +4,22 @@ import { AudioEngine } from './game/audio/AudioEngine';
 
 const onboardingSlides = [
   {
-    image: './onboarding/justice-urbaine-01.jpg',
+    image: './onboarding/justice-urbaine-01.webp',
     title: 'La ville appelle',
     text: 'Dans les quartiers oubliés, un syndicat a verrouillé les rues. Hylst, juge urbain, reprend la ville bloc par bloc.',
   },
   {
-    image: './onboarding/justice-urbaine-02.jpg',
+    image: './onboarding/justice-urbaine-02.webp',
     title: 'La grenade change la distance',
     text: 'Les armes sont rares et limitées. La grenade suit une vraie courbe : profondeur, rebond et minuterie décident du chaos.',
   },
   {
-    image: './onboarding/justice-urbaine-03.jpg',
+    image: './onboarding/justice-urbaine-03.webp',
     title: 'Les ennemis apprennent à te lire',
     text: 'Archers, snipers et lanceurs télégraphient leurs attaques. Lis les lasers, esquive au dash, brise les caisses pour survivre.',
   },
   {
-    image: './onboarding/justice-urbaine-04.jpg',
+    image: './onboarding/justice-urbaine-04.webp',
     title: 'Huit zones, un verdict',
     text: 'Des ruelles aux toits, du métro à la tour finale : chaque niveau durcit le tempo. Atteins le Patron et rends justice.',
   },

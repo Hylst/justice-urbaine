@@ -1,5 +1,10 @@
 # Journal des modifications
 
+## 1.0.1 - 2026-11-26
+
+- Zoom du navigateur de nouveau autorisé (retrait de `maximum-scale` et `user-scalable=no`).
+- Images d'onboarding converties en WebP 1200 px : 1,15 Mo à 813 Ko, sans changement visuel à la taille d'affichage.
+
 ## 1.0.0 - 2026-11-26
 
 - Import de la variante `react-25d-beat-em-up (7).zip`.
