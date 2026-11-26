@@ -1315,7 +1315,7 @@ export class Game {
     ctx.fillText('ZQSD : déplacer    ESPACE : poing    SHIFT : coup lourd    F : tirer    Q/E : changer d\'arme', CANVAS_WIDTH / 2, 400);
     ctx.fillText('SHIFT + direction : dash (invulnérabilité)    P : pause', CANVAS_WIDTH / 2, 420);
     ctx.fillText('Combos · 4 attaques · pistolet/grenade/couteau · 7 types d\'ennemis · boss final', CANVAS_WIDTH / 2, 442);
-    this.neonText('par Hylst — Geoffroy, avec l\'aide d\'une IA', CANVAS_WIDTH / 2, 500, 18, '#41e8c8');
+    this.neonText('par Hylst / Geoffroy, avec l\'aide d\'une IA', CANVAS_WIDTH / 2, 500, 18, '#41e8c8');
     ctx.textAlign = 'left';
   }
 

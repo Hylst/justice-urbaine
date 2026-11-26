@@ -7,3 +7,7 @@
 - Chemins des images d'onboarding rendus relatifs pour fonctionner sous le sous-dossier.
 - Titre et description de la page alignés sur le nom publié.
 - Licence AGPL-3.0-or-later et README de publication.
+
+## 1.0.1 - 2026-11-26
+
+- Signature de l'intro : le tiret cadratin est remplacé par une barre oblique.
